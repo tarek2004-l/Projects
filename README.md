@@ -2,7 +2,7 @@ A machine learning web application that predicts whether a person is at risk of 
 📊 Overview
 This project uses the Pima Indians Diabetes Dataset to build a classification model that predicts the likelihood of a person having diabetes. The model is trained using a Random Forest Classifier and evaluated with accuracy metrics and a confusion matrix.
 
-✅ Features
+✅ Features:
 Complete machine learning pipeline from data loading to prediction
 
 Exploratory Data Analysis (EDA) with Seaborn and Matplotlib
@@ -15,7 +15,7 @@ Feature importance visualization to understand key predictors
 
 Trained model saved using pickle for future deployment
 
-📁 Dataset
+📁 Dataset:
 Source: Pima Indians Diabetes Dataset
 
 Records: 768 patient entries
@@ -31,14 +31,14 @@ Confusion Matrix and classification report used for detailed evaluation
 
 Balanced performance across both classes
 
-📂 Files Included
+📂 Files Included:
 Predicting Risk Of Diabetes Using Patient Data.ipynb — Full code and analysis in Google Colab
 
 diabetes_model.pkl — Trained model file (for future deployment)
 
 README.md — Project summary and usage guide
 
-🧠 What I Learned
+🧠 What I Learned:
 Handling and preprocessing real-world healthcare data
 
 Training and evaluating classification models
@@ -47,7 +47,7 @@ Saving trained models for future use
 
 Explaining ML projects clearly for technical and non-technical audiences
 
-📬 Contact
+📬 Contact:
 Interested in discussing this project or hiring me?
 📧 TarekLazkani2004@outlook.com
 
