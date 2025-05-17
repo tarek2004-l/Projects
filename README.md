@@ -47,3 +47,7 @@ Saving trained models for future use
 
 Explaining ML projects clearly for technical and non-technical audiences
 
+📬 Contact
+Interested in discussing this project or hiring me?
+📧 TarekLazkani2004@outlook.com
+
